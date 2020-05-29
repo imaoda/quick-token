@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "wangyongfeng"
+  },
+  "dependencies": {},
+  "description": "开箱即用的 token 管理/生成工具，支持 express koa",
+  "keywords": [
+    "crypto",
+    "token",
+    "auth"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "quick-token",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
